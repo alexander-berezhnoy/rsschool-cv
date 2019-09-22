@@ -36,15 +36,15 @@ My goal is to get job, where I can grow professionally faster as Front-end Devel
 
 _Couple of my best projects_
 
-1. [CRWN-Clothing](https://ob-crwn-clothing.herokuapp.com/)
-   Internet clothing shop.
+1. [CRWN-Clothing](https://ob-crwn-clothing.herokuapp.com/)  
+   _Internet clothing shop_  
    Most difficult my project and most close to wanted technology stack.
    **Features:** Google and Email sign-in and Email sign-up to Firebase, adding/removing items to cart, calculating total price, Stripe transactions with test credentials.
    **Used:** React (with Hooks), React Router, Redux, Redux Thunk => Redux Saga, SASS => Styled Components, Firebase, Stripe API.
    [View sources](https://github.com/alexander-berezhnoy/crwn-clothing)
 
-1. [SmartBrain](https://smart-brain-ob.herokuapp.com/)
-   Face-recognition app
+1. [SmartBrain](https://smart-brain-ob.herokuapp.com/)  
+   _Face-recognition app_  
    **Features:** simple email sign-in and sign-up, detecting multiple human faces on image by image url, counting number of detecting for each authenticated user.
    **Used:** React, tachyons, Express, PostgreSQL, Clarifai API
    [View sources (front-end)](https://github.com/alexander-berezhnoy/smartbrain)
@@ -52,10 +52,10 @@ _Couple of my best projects_
 
 #### Education
 
-02.07.2019 - [Udemy: The Complete Web Developer in 2019: Zero to Mastery](https://www.udemy.com/certificate/UC-EL8XNFG0/)
+02.07.2019 - [Udemy: The Complete Web Developer in 2019: Zero to Mastery](https://www.udemy.com/certificate/UC-EL8XNFG0/)  
 28.01.2019 - [Udemy: The Web Developer Bootcamp](https://www.udemy.com/certificate/UC-VW57SG2Q/)
 31.01.2017 - Master's Degree (System Programming), Volodymyr Dahl East Ukrainian National University
 
 #### English
 
-Everyday I read some articles about web development, documentation for libraries, frameworks or tolls I need. I passed several Udemy courses on English without subs. I passed [certification for reading and listening](https://www.efset.org/cert/vBjGpy)
+I read some articles about web development and documentation for libraries, frameworks or tools I need every day. I passed several Udemy courses on English without subs. I passed [certification for reading and listening](https://www.efset.org/cert/vBjGpy)
